@@ -1,0 +1,10 @@
+{
+  "buildCommand": "pnpm build",
+  "devCommand": "pnpm dev",
+  "installCommand": "pnpm install",
+  "framework": "nextjs",
+  "env": {
+    "RESEND_API_KEY": "@resend_api_key",
+    "CONTACT_EMAIL": "@contact_email"
+  }
+}
